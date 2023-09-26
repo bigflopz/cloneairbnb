@@ -1,0 +1,17 @@
+.button {
+    font-size: 14px;
+    color: black;
+    display: flex;
+    height: 50px;
+    width: auto;
+    align-items: center;
+    border: none;
+    border-width: 1px;
+    text-align: justify;  
+    background-color: transparent;
+    padding: 5px;
+    
+
+}
+
+

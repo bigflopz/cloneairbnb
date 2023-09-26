@@ -1,0 +1,3422 @@
+[
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "5.0 out of 5 average rating",
+        "avgRatingLocalized": "5.0",
+        "city": "Palm Desert",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1242137858",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/af0de2ea-7fc1-43b6-91e0-d12fc332dfd6.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 beds", "Studio"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1242137859",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/9d2d6f71-3492-4df0-96a9-91ea7be11170.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 private bath"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1242137860",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/a6b8aaf7-dff9-42d4-8138-1ffbd31195ce.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1242137861",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/4c7a3acc-8277-459f-a3d2-5ef61f29ef81.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1242137862",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/a0effa81-ac3d-40df-8bea-44df1518171c.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1242137863",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/2784bdca-cc0c-4e15-b49e-a97d1d4dcf96.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 9,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.75154,
+            "longitude": -116.36005
+        },
+        "formattedBadges": [],
+        "id": "51820709",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Palm Desert",
+        "name": "Marriott Desert Springs 2 - Studio",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "private_room",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 28 – Oct. 3",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "137 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 28 – Oct. 3",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Palm Desert, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.94 out of 5 average rating",
+        "avgRatingLocalized": "4.94",
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1688474443",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/2230c116-c057-46ca-b224-2912f7d81c35.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1688482244",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/9d1f1d83-f0fd-4276-a7ae-0756bcf6908c.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1688474866",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/08547246-8545-4263-bdf6-c55424d71242.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4.5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1688482225",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/5440bc89-2d93-49e4-ba8f-80b3336e3edd.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "3 queen beds"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1688475117",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/ce7a9ec4-da0d-492f-96f5-460f6bc7769e.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.9 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1688482516",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-903833808733078412/original/aabe0280-e209-43bd-b04d-631e69faa0bc.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.8514801,
+            "longitude": -117.2124765
+        },
+        "formattedBadges": [],
+        "id": "903833808733078412",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "Remodeled Home ~Private POOL ~ Close to Beach",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "15 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "New place to stay",
+        "avgRatingLocalized": "New",
+        "city": "Escondido",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1721423757",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/646fb9ea-a1ee-4986-9e5b-cb4b88755778.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1718637784",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/755fa118-e2ac-4db7-9a69-42ae742a35be.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["7 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1718637486",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/2990f4ec-cdb1-495f-83e5-6af7ad3fdf87.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1721422742",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/129f9ebd-9bd6-4fb2-aeeb-9b301eb95078.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1718637422",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/98e392cb-44e5-4d1e-a481-57d4e835417f.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1721371507",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-957294668951263980/original/8874eec3-1cd9-4a0b-8d7c-2652416625a6.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.06595139365611,
+            "longitude": -117.07453720687434
+        },
+        "formattedBadges": [],
+        "id": "957294668951263980",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Escondido",
+        "name": "Central Location, Spectacular Views, Pool, Jacuzzi",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Nov. 12 – 17",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "39 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Nov. 12 – 17",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Escondido, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "5.0 out of 5 average rating",
+        "avgRatingLocalized": "5.0",
+        "city": "Jamul",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1664085119",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/d9dd3a19-51e7-4c98-a9b8-283a74f7b407.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["8 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1664084849",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/e66c5602-19bf-482d-ab03-4ecdc616fdc9.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3.5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1664084852",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/fd5ea613-2fbf-4790-b9fd-f0cb0c516fec.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1664085115",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/bcc8d40c-7c16-475d-a06a-7778299ced66.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1664085116",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/8fb76f01-68b1-4aee-aefe-cdc3d2b5fab9.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1664085056",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-861793572773401947/original/a31e6acd-1213-4882-acac-1907704f32fd.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.72409,
+            "longitude": -116.84862
+        },
+        "formattedBadges": [],
+        "id": "861793572773401947",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Jamul",
+        "name": "San Diego Pink Tiger Mansion retreat heated pool",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "30 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Jamul, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.82 out of 5 average rating",
+        "avgRatingLocalized": "4.82",
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1677040032",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/6d3532d9-f446-42fe-af86-25d3da892ca2.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1677039657",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/b6cae129-30c5-45b2-b4a3-59dec2049a7e.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["6 beds", "6 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1677039671",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/7713cbe0-41c8-479d-b249-b0972d702655.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1677039680",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/06ddb7f4-d9b2-401f-a336-8e677cd9e009.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "3 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1677039690",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/e71cd301-da9f-4a13-95e4-dd5bcfabd32a.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1677039700",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-864059400786122959/original/23c2c79d-1156-4bcb-be51-b598b95d2d4a.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.80644080751088,
+            "longitude": -117.02308038788021
+        },
+        "formattedBadges": [],
+        "id": "864059400786122959",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "Cowles Mountain Getaway for the Whole Family",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 20 – 25",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "17 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 20 – 25",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.88 out of 5 average rating",
+        "avgRatingLocalized": "4.88",
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "796295918",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/2bc234de-019d-4311-bfea-1a902a379a70.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "796295781",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/b99216b9-4f66-45e7-98da-7e94722acae9.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["6 beds", "3 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "796296907",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/0f166425-5002-4d86-a2d2-caf70b71f853.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "796296547",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/d4570df0-5ee4-4742-a06e-c5a38a814f61.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "4 double beds"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "796296698",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/896e0baf-a302-40b6-9313-d3cfc22c9f1d.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.8 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "796294910",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/f0be4a1c-97cb-49ed-9c4c-0e02415b3bf6.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.8054,
+            "longitude": -117.26107
+        },
+        "formattedBadges": [],
+        "id": "32808317",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "Ocean Front Beach Home With Sparkling Pool",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 28 – Nov. 2",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "12 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 28 – Nov. 2",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "5.0 out of 5 average rating",
+        "avgRatingLocalized": "5.0",
+        "city": "Poway",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1615384529",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/67941bb3-6c48-4ccc-80b1-e042f79da6b0.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1615385194",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/2fbbaa11-bf0a-44f2-a646-fc1dfd7dd993.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["15 beds", "5 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1615384785",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/1cfd6d53-08fc-4072-a6b5-00d00c019c5c.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "2 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1615384919",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/9be8b263-c2d3-4efa-a9f6-b2c5bb084b62.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1615385244",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/1bfbf5ed-2711-4441-839a-b01ca4d87752.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1615385172",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-849299377558016104/original/6e7ffc32-ff32-44d9-bc91-dcbc383ab0e2.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.947139516817586,
+            "longitude": -117.02284657613045
+        },
+        "formattedBadges": [],
+        "id": "849299377558016104",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Poway",
+        "name": "Fabulous 2.5-Acre Retreat w/ Pool, Games & Views!",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 12 – 17",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "28 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 12 – 17",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Poway, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.86 out of 5 average rating",
+        "avgRatingLocalized": "4.86",
+        "city": "Escondido",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1425528136",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/02c2049a-5aa9-47e6-b2d7-3419a704e2dc.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1425781433",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/17582396-bb0b-4315-ab53-d0f1fe9c76bf.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["10 beds", "5 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1425529337",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/22edf636-3cb3-4e35-9509-aaaf317c32e1.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1425530090",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/1beae9c4-25d5-4665-bc87-430c11aef6c0.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "2 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1425530128",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/5606fe6e-2224-410b-80a6-4b7fc65320c2.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.9 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1425529388",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-650966243321800217/original/5d0ef5cf-3fdc-4e74-ba2b-7984475064f8.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.0906102,
+            "longitude": -117.1124574
+        },
+        "formattedBadges": [],
+        "id": "650966243321800217",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Escondido",
+        "name": "Lux Retreat- GameRoom/Volleyball/PuttingGreen&More",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Nov. 2 – 7",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "41 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Nov. 2 – 7",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Escondido, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.93 out of 5 average rating",
+        "avgRatingLocalized": "4.93",
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1296901867",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/346e7c92-dd39-4054-91b2-d1875096c3e8.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["5 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1296901976",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/2d45b5de-9f4b-44ad-b57c-14cf04d6e0ec.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1296901897",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/7d948b2f-781e-44ce-a247-7c3dffdbc391.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "3 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1296901872",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/d7927e38-b158-4e4c-a459-0ffe38017346.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1296901888",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/62150443-5a14-4c65-a218-853760c84420.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1296901896",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53614630/original/19152f70-ac2f-400c-add7-368caa3fbe1f.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.802284,
+            "longitude": -117.064384
+        },
+        "formattedBadges": [],
+        "id": "53614630",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "4-bed Paradise Villa ♨ Pool, hot-tub massage chair",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 1 – 6",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "13 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 1 – 6",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.89 out of 5 average rating",
+        "avgRatingLocalized": "4.89",
+        "city": "Chula Vista",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1188789881",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/250e8a8e-a549-4ade-b92b-ea943d826acb.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["5 beds", "3 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1342927685",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/52f4be9a-96c7-46fb-93f8-e53cf8dfd750.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1161755031",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/76e166bc-b9f5-4732-959c-5e843e1ffd6b.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "1 sofa bed", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1342927473",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/bba0e2d5-e911-4a77-9219-9d69a71611c9.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.9 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1161755705",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/1119d260-612e-461a-a740-3bdcf06876fb.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1145169233",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/cacbc043-b642-40d5-914a-2a46d9e3d31b.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.62629,
+            "longitude": -117.04138
+        },
+        "formattedBadges": [],
+        "id": "48602418",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Chula Vista",
+        "name": "An Oasis,Heated Pool,\nJQZ,Grill,Ocean&MTN View",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 30 – Oct. 5",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "16 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 30 – Oct. 5",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Chula Vista, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.99 out of 5 average rating",
+        "avgRatingLocalized": "4.99",
+        "city": "Encinitas",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "297369758",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/488c8c20-09e8-4085-8fdc-3d7ca19719cf.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "297369678",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/0cabc247-44f9-4f0e-9e90-4d9cd9c79682.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 beds", "3 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "297369676",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/6564d245-a31f-4890-a19b-2e6f669f99ba.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2.5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "297369667",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/791859f3-d233-45d6-9c8c-a8859b72bb02.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "297369746",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/1516c50d-dcf0-48ef-a9eb-1a8c082b3d17.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "297369663",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/f6108557-71ec-40e9-b0cb-51fec34aa430.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.06767,
+            "longitude": -117.29008
+        },
+        "formattedBadges": [],
+        "id": "18311666",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Encinitas",
+        "name": "Open Spacious Leucadia Home",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "40 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Encinitas, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": null,
+        "avgRatingLocalized": null,
+        "city": "Vista",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1707230721",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/65a426f2-c78f-4b5f-ba09-735fc8e5a686.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 beds", "3 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1707230733",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/c841ed55-4f5d-4cad-b79e-f75595bd583a.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1707230744",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/bfafbb12-9499-438a-9b35-12113acbea10.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "2 queen beds"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1707230768",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/8525f5ad-8fab-4d17-8fb4-60bc5f10c0c2.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1707230794",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/06d62818-ef36-4f52-abb8-f19c4f9c922c.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1707230816",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-880060965085894925/original/46cd1b9c-fe19-4038-8079-e3f428ce91d5.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.15969,
+            "longitude": -117.24439
+        },
+        "formattedBadges": [],
+        "id": "880060965085894925",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Vista",
+        "name": "Gorgeous Vista Home w/ Private Pool & Spa!",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 13 – 18",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "49 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 13 – 18",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Vista, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.83 out of 5 average rating",
+        "avgRatingLocalized": "4.83",
+        "city": "La Mesa",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1341914649",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/49c6fd71-ca06-45d9-b88a-243ad984b5d3.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1341921021",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/2e0ef523-8ef4-4700-a9ee-4b0050df73cc.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["11 beds", "6 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1341920823",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/d5e3636c-d9af-45a1-a6cf-5cb1d0a959ed.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1341914347",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/2612722f-8eec-48a0-a9b9-dae0515f0a4c.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "2 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1341921377",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/7870e1c6-d1ca-450d-9a2c-4c17710025ca.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.8 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1341920275",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-49131795/original/cd9a3b6d-6851-4a20-8424-a97cd6a45b9e.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.756336,
+            "longitude": -117.022903
+        },
+        "formattedBadges": [],
+        "id": "49131795",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "La Mesa",
+        "name": "San Diego Dream Home, Amazing View, Pool and more!",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 2 – 7",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "14 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 2 – 7",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "La Mesa, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "5.0 out of 5 average rating",
+        "avgRatingLocalized": "5.0",
+        "city": "La Mesa",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1705974985",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/57abda6b-ee50-4150-8115-764c9d62d5c0.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1705974895",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/fa3a108d-f1a9-4f72-b1f4-70395d8bc7d7.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["6 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1705974989",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/b51d4eb7-b725-42eb-a0aa-4f95f70caa2f.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3.5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1705974907",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/ba0a253c-61ae-4bf4-bc94-b0fe19a5b0e0.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "1 queen bed", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1705974925",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/3fb40268-04f7-4f7f-a98f-079ee128d4ed.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1705974918",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-943717126731211771/original/e1b44a53-d80b-494c-b51a-41e3c0dee3ac.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.787538339533924,
+            "longitude": -116.99387605406454
+        },
+        "formattedBadges": [],
+        "id": "943717126731211771",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "La Mesa",
+        "name": "Luxury Home! Heated Pool+Spa+Firepit",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Dec. 1 – 6",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "18 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Dec. 1 – 6",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "La Mesa, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.9 out of 5 average rating",
+        "avgRatingLocalized": "4.9",
+        "city": "Ramona",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1187890340",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/e1187ea2-966c-4859-b350-48f272a98740.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1313831803",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-22884590/original/6688a0fa-e852-455d-8529-a6547d5c0d35.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["9 beds", "6 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1187890433",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/975314b5-11a2-4f29-8082-f575013a66d7.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3.5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1366142232",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/9d90853c-fd62-4d29-84de-4bcefd701213.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "2 queen beds", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1438439106",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/8993aef4-3cd6-4769-b44e-c4d9ce8bb990.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1173951975",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/e1a14326-f0c1-4ca8-a10b-ca44c29213fd.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.02129,
+            "longitude": -116.93162
+        },
+        "formattedBadges": [],
+        "id": "22884590",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "Ramona",
+        "name": "Family Farm Retreat, Pool, Hot tub, Game room",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "40 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 24 – 29",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "Ramona, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": null,
+        "avgRatingLocalized": null,
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1621225974",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/fabee2d8-a7dd-4d9e-b086-b793bd60b1b7.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1626560363",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/3bf6084c-a072-412d-b57e-a709837c953e.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["6 beds", "6 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1621225968",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/76ccad95-69a5-46c7-aac1-19c1705557c7.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["5 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1621225957",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/a33cb0bb-4bad-4857-9ce7-c06f940af8b2.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1621225963",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/412c1f12-1485-4fc3-a688-0f4e767e5e4f.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1621225960",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-862500302375178163/original/1f2d8fb1-d475-4ffa-8ce5-5e4871e5a82b.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 25,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.8251339,
+            "longitude": -117.27969
+        },
+        "formattedBadges": [],
+        "id": "862500302375178163",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "Windansea Escape",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 25 – 30",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "15 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 25 – 30",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.93 out of 5 average rating",
+        "avgRatingLocalized": "4.93",
+        "city": "San Marcos",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1212527919",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/587c451b-d786-4464-b7c1-c1114843b28f.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 bed", "Studio"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1176836028",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/2bac7cc5-3738-4094-8f9f-4bb7ed0d21bb.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 bath"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1176836229",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/67d16097-3e56-4ab4-a37e-abb4a05fe32c.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1176836542",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/57a8b4b0-263a-4bb5-b49f-2f86712d214b.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 5 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1176838339",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/f8725542-ef21-4945-8924-ad5a4a962679.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1176836633",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/e03aca3f-49c0-4f41-988f-10b24b59d09e.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 26,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 33.17228,
+            "longitude": -117.16365
+        },
+        "formattedBadges": [],
+        "id": "49730534",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Marcos",
+        "name": "Romantic spa like resort with pool",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 25 – 30",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "50 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 25 – 30",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Marcos, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.88 out of 5 average rating",
+        "avgRatingLocalized": "4.88",
+        "city": "La Mesa",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1466036709",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/e46f5d65-6052-48b7-ba0e-dbae888e0171.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1466036906",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/d7ac708d-723f-4723-b45f-a60e82ac3314.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1466037952",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/f6b6ca43-4704-4ef3-a093-60ba46980b7b.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1466037722",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/397373eb-f67b-4847-bbff-dac266e63ad4.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "1 queen bed", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1466037954",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/33670162-28ed-47bc-943c-b5a6389c5a49.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.9 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1466037962",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-689150366550599851/original/22650f8c-69df-488e-982b-54fb63512e8d.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.752884,
+            "longitude": -116.9732155
+        },
+        "formattedBadges": [],
+        "id": "689150366550599851",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "La Mesa",
+        "name": "Beautiful San Diego Family 4BR Great Backyard Pool",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 23 – 28",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "19 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Sep. 23 – 28",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "La Mesa, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "5.0 out of 5 average rating",
+        "avgRatingLocalized": "5.0",
+        "city": "El Cajon",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1547091249",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/0cc35c65-2343-4233-98f6-5d4345585f98.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 beds", "3 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1547091300",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/dae0a0b3-4686-4801-88ad-05353261d880.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["3 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1546603753",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/78f6bfda-5230-4cde-a4c7-b36b245bf141.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["1 king bed", "3 queen beds"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1546603845",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/b06e2bcd-2ae0-4244-b690-55439d7bbc76.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.7 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "1546609537",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/897e53ed-b805-4e3f-864f-519f3af26749.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "1546603757",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-782154884797963569/original/66cb84ef-95b1-432e-baed-8888b2b617b5.jpeg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.78781,
+            "longitude": -116.90041
+        },
+        "formattedBadges": [],
+        "id": "782154884797963569",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "El Cajon",
+        "name": "Spacious Ranch with Pool Spa and Bar",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 27 – Nov. 1",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "26 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 27 – Nov. 1",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "El Cajon, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    },
+    {
+        "__typename": "StaySearchResultListing",
+        "avgRatingA11yLabel": "4.92 out of 5 average rating",
+        "avgRatingLocalized": "4.92",
+        "city": "San Diego",
+        "contextualPictures": [
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "659424441",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/c9e50c4a-b803-4d91-ad7e-9b25a8fb6141.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": null,
+                "dominantSaturatedColor": null,
+                "id": "659424139",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/1ce7861c-ec78-46a8-9a87-4606392af7d1.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 beds", "4 bedrooms"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "659424140",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/77a15c44-04c4-431b-a4be-8d43e7cfadd8.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["4 baths"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "659424230",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/01e91f91-9078-40f8-830d-510eeda7241d.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["2 king beds", "1 queen bed", "more"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "659424251",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/0d3ac93e-f61a-4282-9aea-31a7ce28a156.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            },
+            {
+                "__typename": "ExplorePicture",
+                "caption": {
+                    "__typename": "ExploreKickerContent",
+                    "formattedMessages": null,
+                    "kickerBadge": null,
+                    "messages": ["Rated 4.8 out of 5 for cleanliness"],
+                    "textColor": null
+                },
+                "dominantSaturatedColor": null,
+                "id": "659424322",
+                "largeRo": null,
+                "originalPicture": null,
+                "picture": "https://a0.muscache.com/im/pictures/ba76ed85-b53b-457e-8c49-dc5066df7f2c.jpg?im_w=720",
+                "previewEncodedPng": null,
+                "saturatedA11yDarkColor": null,
+                "scrimColor": null,
+                "xlPicture": null
+            }
+        ],
+        "contextualPicturesCount": 30,
+        "contextualPicturesPageInfo": {
+            "__typename": "PageInfo",
+            "endCursor": "NQ==",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "startCursor": null
+        },
+        "coordinate": {
+            "__typename": "Coordinate",
+            "latitude": 32.79181,
+            "longitude": -117.23298
+        },
+        "formattedBadges": [],
+        "id": "31601420",
+        "listingObjType": "REGULAR",
+        "localizedCityName": "San Diego",
+        "name": "Crown Point Luxury - Pacific Beach /  La Jolla, CA",
+        "pdpUrlType": "ROOMS",
+        "roomTypeCategory": "entire_home",
+        "roomTypeId": null,
+        "structuredContent": {
+            "__typename": "ExploreStructuredContent",
+            "distance": null,
+            "mapCategoryInfo": [],
+            "mapPrimaryLine": null,
+            "mapSecondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 9 – 14",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "primaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "9 km away",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ],
+            "secondaryLine": [
+                {
+                    "__typename": "MainSectionMessage",
+                    "body": "Oct. 9 – 14",
+                    "bodyA11yLabel": null,
+                    "bodyType": null,
+                    "fontWeight": null,
+                    "headline": null,
+                    "type": null
+                }
+            ]
+        },
+        "tierId": 0,
+        "title": "San Diego, California, US",
+        "titleLocale": "en",
+        "primaryHostPassport": null
+    }
+]
