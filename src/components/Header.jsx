@@ -6,7 +6,6 @@ import dropDownIcon from "../components/dropdown-menu-svgrepo-com.svg";
 import searchIcon from "../components/search-circle-svgrepo-com.svg";
 import "../components/fonts/fonts.css";
 import ClickableText from "./ClickableText";
-import { ImHome } from 'react-icons/im'
 
 const customFont = {
   fontFamily: "Roboto",
@@ -31,7 +30,7 @@ const Header = (props) => {
         <nav>
           <div className="logo">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/2560px-Airbnb_Logo_B%C3%A9lo.svg.png"
+              src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"
               alt="Logo"
             />
           </div>
@@ -39,7 +38,7 @@ const Header = (props) => {
             <Button className="button " text="Anywhere" />
             <Button className="button " text="Any week" />
             <Button className="button button3" text="Add guests" />
-            <img src={searchIcon} />
+            <img className="search" src={searchIcon} />
           </div>
           <div className="button-container1">
             <button className="button2 img">Airbnb your home</button>

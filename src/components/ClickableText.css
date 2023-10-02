@@ -1,0 +1,10 @@
+.headerIcon:hover p{
+    font-weight: bold;
+    color: black;
+}
+.headerIcon:hover {
+    border-bottom: 2px solid grey;
+}
+.bold-text{
+    font-weight: 600;
+}

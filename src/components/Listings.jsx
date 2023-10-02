@@ -3555,7 +3555,8 @@ function Listings() {
       {listings.map((item) => {
         return (
           <div className="grid-item">
-            <img src={item.contextualPictures[0].picture} alt="pic" />
+            <div className="grid-pic">
+            <img src={item.contextualPictures[0].picture} alt="pic" /></div>
             <div className="grid-text">
             <p>{item.name}</p>
             </div>

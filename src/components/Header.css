@@ -9,6 +9,7 @@
   border-bottom: grey;
   border-width: 0.2px;
   border-style: solid;
+  justify-content: center;
 }
 .header header {
   background-color: #fff;
@@ -20,12 +21,12 @@
   width: 100%;
   justify-content: space-between;
   display: flex;
+  align-items: center;
 }
 
 .logo img {
-  max-width: 102px;
-  max-height: 32px;
-  float: left;
+  align-items: center;
+  
 }
 .button-container {
   display: flex;
@@ -34,7 +35,7 @@
   padding: 2px;
   box-shadow: 1px 1px 5px 5px rgb(226, 221, 221);
   box-sizing: border-box;
-  width: 300px;
+  height: 48px;
   align-items: center;
   text-align: center;
 }
@@ -45,7 +46,11 @@
   padding-left: 10px;
   word-break: break-all;
 }
+.search{
+  padding-right: 10px;
+}
 .button3 {
+  color: gray;
   border: none !important;
   height: 50px;
 }
