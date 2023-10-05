@@ -5,24 +5,17 @@ import profileIcon from "../components/account-avatar-profile-user-3-svgrepo-com
 import dropDownIcon from "../components/dropdown-menu-svgrepo-com.svg";
 import searchIcon from "../components/search-circle-svgrepo-com.svg";
 import "../components/fonts/fonts.css";
-import ClickableText from "./ClickableText";
+import ScrollableContent from "./Navbar";
 
 const customFont = {
   fontFamily: "Roboto",
 };
 
-const headerList = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,17];
+
 
 const Header = (props) => {
-  const [selectedText, setSelectedText] = useState(null);
-
-  const handleTextClick = (index) => {
-    if (selectedText === index) {
-      setSelectedText(null);
-    } else {
-      setSelectedText(index);
-    }
-  };
+  
+  
 
   return (
     <div>
@@ -51,16 +44,8 @@ const Header = (props) => {
         </nav>
       </header>
       <body>
-        <div className="header2">
-          {headerList.map((value, index) => (
-            <button className="button-activities"  key={index}>
-              <ClickableText
-                text="StarWars"
-                isUnderlined={selectedText === index}
-                onClick={() => handleTextClick(index) }></ClickableText>
-            </button>
-          ))}
-        </div>
+        <ScrollableContent/>
+        
       </body>
     </div>
   );

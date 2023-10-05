@@ -25,6 +25,7 @@ const ClickableText = ({ text, isUnderlined, onClick }) => {
         {text}
       </p>
     </div>
+    
   );
 };
 export default ClickableText;
